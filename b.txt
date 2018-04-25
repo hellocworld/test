@@ -7,3 +7,4 @@ hello world
 这输入法能把人烦死
 开始困了，每天中午都这样
 commit1
+commit2
